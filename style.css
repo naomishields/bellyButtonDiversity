@@ -1,0 +1,9 @@
+body {
+    background-color: #faf1d3;
+     }
+  
+  .jumbotron {
+    background-image: url("petridish.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
